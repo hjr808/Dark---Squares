@@ -1,1 +1,82 @@
- Producer file 
+DARK-SQUARES PRODUCTION STRUCTURE
+==================================
+
+PROJECT OVERVIEW:
+Dark Squares is a multi-format entertainment project including TV series, novels, and supplementary materials.
+
+DIRECTORY STRUCTURE:
+====================
+
+01_SERIES_BIBLE/
+  ├── Dark Squares Series Bible.pdf
+  │   └── Complete series foundation and creative direction
+  ├── Season Overview.pdf
+  │   └── High-level overview of all seasons
+  └── Theme & Vision.md
+      └── Core themes, tone, and creative vision
+
+02_CHARACTER_BIBLE/
+  ├── Mannie.pdf
+  │   └── Lead character profile and arc
+  ├── Keith.pdf
+  │   └── Supporting character profile
+  ├── Butch.pdf
+  │   └── Character profile and relationships
+  ├── Sarah.pdf
+  │   └── Character profile and development
+  ├── Boy George.pdf
+  │   └── Character profile
+  └── Supporting Characters.pdf
+      └── Secondary and tertiary characters
+
+03_SEASON_ONE/
+  ├── Episode 1 - Apartment Door (Pilot).pdf
+  │   └── Pilot episode script/treatment
+  ├── Season One Episode Guide.pdf
+  │   └── Full season breakdown with episode details
+  └── Book One Novel.pdf
+      └── Extended narrative version of Season One
+
+04_SEASON_TWO/
+  ├── Book Two Draft.md
+  │   └── Novel draft for Season Two
+  ├── Season Two Outline.pdf
+  │   └── High-level outline and arc
+  └── Episode Breakdown.md
+      └── Detailed episode-by-episode breakdown
+
+05_ARTWORK/
+  ├── Covers/
+  │   └── Book covers and poster designs
+  ├── Posters/
+  │   └── Marketing and promotional posters
+  └── Character Images/
+      └── Character artwork and reference images
+
+06_PITCH/
+  ├── Pitch Deck.pdf
+  │   └── Presentation deck for investors/networks
+  ├── One Page Sell Sheet.pdf
+  │   └── Quick reference one-pager
+  └── Producer Letter.pdf
+      └── Formal letter from producer
+
+07_LEGAL/
+  ├── Copyright
+  │   └── Copyright registration and documentation
+  └── Registration Notes
+      └── Submission tracking and registration details
+
+PRODUCTION NOTES:
+=================
+- Last Updated: July 16, 2026
+- Status: In Development
+- Format: Multi-platform (TV/Novel/Digital)
+
+NEXT STEPS:
+===========
+1. Complete Book One Novel (Season One)
+2. Develop Season Two materials
+3. Finalize pitch deck
+4. Register copyrights
+5. Gather artwork and promotional materials
