@@ -10,7 +10,7 @@
 
 ### Authority applied
 
-Sources were applied in the requested order. The completed Season One screenplay set is the controlling production record. The Season Two screenplay tier has no entries. The Season One Production Bible, Season Two Episode Guide, Season Two Source Map, Series Timeline, and Master Canon were used only to test the screenplay record, not to add events. No substantive standalone Character Bible, World Bible, or Continuity Log exists in the repository. Book One was used as a lower-priority verification source; no Book Two manuscript or narrative source is present.
+Sources were applied in the requested order. The completed Season One screenplay set is the controlling production record. The Season Two screenplay tier has no entries. The Season One Production Bible, Season Two Episode Guide, Season Two Source Map, Series Timeline, and Master Canon were used only to test the screenplay record, not to add events. No substantive standalone Character Bible or World Bible exists in the repository. A Continuity Log is present at `Series-Bible/CONTINUITY_LOG.md`. Book One was used as a lower-priority verification source; no Book Two manuscript or narrative source is present.
 
 ### Result key
 
@@ -236,5 +236,5 @@ All items below are deliberate open continuity, not defects to solve by inferenc
 - [x] All 21 completed Season One screenplay files indexed and reviewed in episode order.
 - [x] Season Two screenplay directory checked; no completed Season Two screenplay exists.
 - [x] Season One Production Bible, Season Two Episode Guide, Season Two Source Map, Series Timeline, and Master Canon compared against the completed screenplay record in the stated authority order.
-- [x] Character/World Bible and Continuity Log availability checked; no substantive standalone source was found.
+- [x] Character/World Bible and Continuity Log availability checked; Continuity Log is present at `Series-Bible/CONTINUITY_LOG.md`; no substantive standalone Character Bible or World Bible found.
 - [x] No screenplay, source manuscript, guide, source map, timeline, canon, or production-bible file was modified.
