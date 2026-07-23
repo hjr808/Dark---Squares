@@ -25,7 +25,7 @@
 | **Season One** | 21 episodes |
 | **Setting** | Contemporary inner-city (the Woods → the Rocks) |
 | **Tone** | Dark, consequential, street-level authentic; gothic sensibility |
-| **Comparables** | The Wire · The Wire · Euphoria · The Chi · When They See Us |
+| **Comparables** | The Wire · Euphoria · The Chi · When They See Us |
 | **Audience** | Adult, 18–45; premium cable and streaming |
 
 ---

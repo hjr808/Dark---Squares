@@ -63,8 +63,6 @@ SECTIONS = [
 # ---------------------------------------------------------------------------
 
 CSS = """
-@import url('https://fonts.googleapis.com/css2?family=Helvetica');
-
 /* Page setup */
 @page {
     size: letter;
@@ -384,6 +382,10 @@ def main():
     missing = [s for s in SECTIONS if not os.path.exists(os.path.join(PKG_DIR, s))]
     if missing:
         print(f"WARNING: Missing section files: {missing}")
+
+    if not os.path.isdir(PKG_DIR):
+        print(f"ERROR: Producer-Package directory not found: {PKG_DIR}", file=sys.stderr)
+        sys.exit(1)
 
     # 2. Combine sections into source document
     print("Step 1: Combining section files...")
