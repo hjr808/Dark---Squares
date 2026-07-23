@@ -1,8 +1,8 @@
 # DARK SQUARES — PHASE ONE CREATIVE COMPLETION AUDIT
 
 **Repository audited:** `hjr808/Dark---Squares`  
-**Audit scope:** Current local Git object database and working branch `work`; all relevant repository folders, reachable commits, and locally visible refs.  
-**Audit date:** 2026-07-19  
+**Audit scope:** Current local Git object database and working branch `copilot/update-pr-9`; all relevant repository folders, reachable commits, and locally visible refs.  
+**Audit date:** 2026-07-23 (re-audited against current repository tree; corrected Continuity Log status, added Pitch-Deck and Lookbook materials)  
 **Purpose:** Establish the exact Creative Foundation status before any Phase Two work.
 
 ---
@@ -65,9 +65,21 @@
 | Series Timeline | `Series-Bible/SERIES_TIMELINE.md` | Yes / default unverified | **Complete** Season One chronology | `520080ac9b9d8be4074d30cc0d71ba89a976629e` | No exact years/most ages; uses Manny standard. | Maintain as chronological verification source. |
 | Character Bible | `Characters/README.md`; nested `Book-1/Book-2/Book-3/Screenplays/Series-Bible/Characters/README.md` | Yes / default unverified | **Placeholder / partial** | `5bad8e444361d2a3e9cb021137ad5949611d50da` | No substantive standalone Character Bible; profile facts reside in Canon/Production Bible. | Create a creator-approved standalone Character Bible. |
 | World Bible | No substantive standalone file found | No / default unverified | **Missing** | N/A | World guidance resides in Canon/Production Bible only. | Create a World Bible if Phase Two needs new locations, institutions, or city detail. |
-| Continuity Log | No substantive standalone file found | No / default unverified | **Missing** | N/A | Continuity facts are distributed across Timeline and Audit. | Create a dated decision log before new season work. |
+| Continuity Log | `Series-Bible/CONTINUITY_LOG.md` | Yes / default unverified | **Complete** — dated planning decisions and timeline milestones for Season Two | `current` | Tracks locked planning decisions, timeline milestones, and Season Two approval gates. | Use as the primary continuity decision record; update after approved source changes. |
 | Franchise Continuity Audit | `Series-Bible/FRANCHISE_CONTINUITY_AUDIT.md` | Yes / default unverified | **Complete** | `36232f24aaedfb8dd3999e5dd8ac7c380f27d74b` | Reports 92 checks, two minor items, no major contradictions. | Use it as the issue register; update after approved source changes. |
 | Series Show Bible | `Series-Bible/DARK_SQUARES_SERIES_SHOW_BIBLE.md` | Yes / default unverified | **Complete** Book One/Season One production presentation reference | `bf67250477e18fee52cc08c26cbb6f314e34c18e` | Correctly separates confirmed canon and future possibility. | Use for presentation; expand only with approved sources. |
+| Phase One Creative Completion Audit | `Series-Bible/PHASE_ONE_CREATIVE_COMPLETION_AUDIT.md` | Yes / default unverified | **Complete** | current | This document; updated to reflect current repository tree. | Update after each approved source change or new phase milestone. |
+
+### D. Pitch and Marketing Materials
+
+| Expected item | Exact path | Exists / branch state | Status | Most recent affecting commit | Conflict / continuity note | Recommended next action |
+|---|---|---|---|---|---|---|
+| Master Pitch Deck | `Pitch-Deck/DARK_SQUARES_MASTER_PITCH_DECK.md` | Yes / default unverified | **PRESENT** — substantive pitch presentation (148 lines) | current | Authorized Season One pitch material. | Use for producer/distributor presentations; update only with creator approval. |
+| Pitch Package | `Pitch-Deck/DARK_SQUARES_PITCH_PACKAGE.md` | Yes / default unverified | **PRESENT** — substantive pitch package (192 lines) | current | Authorized Season One submission package. | Use for submission; keep in sync with One Sheet. |
+| One Sheet | `Pitch-Deck/DARK_SQUARES_ONE_SHEET.md` | Yes / default unverified | **PRESENT** — substantive one-sheet summary (67 lines) | current | Concise pitch summary document. | Distribute as companion to Master Pitch Deck. |
+| Visual Lookbook | `Pitch-Deck/DARK_SQUARES_VISUAL_LOOKBOOK.md` | Yes / default unverified | **PRESENT** — substantive lookbook (184 lines) | current | Authorized visual reference for tone and aesthetic. | Use for production/casting presentations. |
+| Location Lookbook | `Pitch-Deck/DARK_SQUARES_LOCATION_LOOKBOOK.md` | Yes / default unverified | **PRESENT** — substantive location reference (225 lines) | current | Authorized location and setting reference. | Keep as production location guide. |
+| Character Lookbook | `Pitch-Deck/DARK_SQUARES_CHARACTER_LOOKBOOK.md` | Yes / default unverified | **PRESENT** — substantive character visual reference (190 lines) | current | Authorized character visual guide. | Use for casting and production design reference. |
 
 ---
 
@@ -143,15 +155,21 @@ The guide correctly reserves the following for Alfred HJR-approved source: Book 
 - [x] Master Canon and Series Timeline are complete for Book One / Season One.
 - [x] Franchise Continuity Audit is complete.
 - [x] Series Show Bible is complete for the currently established record.
+- [x] Continuity Log is present at `Series-Bible/CONTINUITY_LOG.md` with dated planning decisions and timeline milestones.
+- [x] Master Pitch Deck is present at `Pitch-Deck/DARK_SQUARES_MASTER_PITCH_DECK.md`.
+- [x] Pitch Package is present at `Pitch-Deck/DARK_SQUARES_PITCH_PACKAGE.md`.
+- [x] One Sheet is present at `Pitch-Deck/DARK_SQUARES_ONE_SHEET.md`.
+- [x] Visual Lookbook is present at `Pitch-Deck/DARK_SQUARES_VISUAL_LOOKBOOK.md`.
+- [x] Location Lookbook is present at `Pitch-Deck/DARK_SQUARES_LOCATION_LOOKBOOK.md`.
+- [x] Character Lookbook is present at `Pitch-Deck/DARK_SQUARES_CHARACTER_LOOKBOOK.md`.
 
-**Completed Phase One items: 29** — one original manuscript, 21 screenplay files, one Production Bible, two Season Two planning controls, and four completed series-foundation documents.
+**Completed Phase One items: 36** — one original manuscript, 21 screenplay files, one Production Bible, two Season Two planning controls, four completed series-foundation documents, one Continuity Log, and six pitch/lookbook marketing materials.
 
 ### PHASE ONE INCOMPLETE
 
 - [ ] A dedicated Season One Episode Guide is missing or has not been formally designated.
 - [ ] A substantive Character Bible is missing.
 - [ ] A substantive World Bible is missing.
-- [ ] A substantive Continuity Log is missing.
 - [ ] Season Two has zero completed/partial/outline-only/source-supported episodes.
 - [ ] Nine creator-approval gates block Season Two mapping; none is an existing episode.
 - [x] Controlled Book Two / Season Two source-authority decision memo created at `Series-Bible/DECISIONS/BOOK_TWO_SEASON_TWO_SOURCE_AUTHORITY.md`; creator response remains pending. The earlier general memo remains preserved as supporting context.
@@ -159,7 +177,7 @@ The guide correctly reserves the following for Alfred HJR-approved source: Book 
 - [ ] The alternate Book One DOCX is unreconciled; duplicate PDFs are unlabeled duplicates.
 - [ ] Remote default-branch and open-PR merge state are not accessible in this checkout.
 
-**Incomplete Phase One items: 14** — four missing foundation documents/decisions, one empty Season Two adaptation track, nine creator-approval gates. The duplicate/remote-state items are recorded risks rather than added to this count.
+**Incomplete Phase One items: 13** — three missing foundation documents/decisions, one empty Season Two adaptation track, nine creator-approval gates. The duplicate/remote-state items are recorded risks rather than added to this count.
 
 ### NEXT REQUIRED TASK
 
@@ -173,12 +191,12 @@ After a response supplies or approves source authority, update the Season Two So
 
 | Final metric | Result |
 |---|---:|
-| Completed Phase One items | **29** |
-| Incomplete Phase One items | **14** |
+| Completed Phase One items | **36** |
+| Incomplete Phase One items | **13** |
 | Files found only in unmerged pull requests | **0 locally verifiable** |
 | Phase One ready to be formally locked | **NO** |
 
-**Reason:** The Book One / Season One production package is complete and internally controlled, but Phase One cannot be formally locked as the whole franchise foundation until the missing Character Bible, World Bible, Continuity Log, Season One Episode Guide decision, and creator-approved Book Two/Season Two source authority are resolved. Remote merge/default-branch state also needs confirmation from the hosted repository before release lock.
+**Reason:** The Book One / Season One production package is complete and internally controlled, but Phase One cannot be formally locked as the whole franchise foundation until the missing Character Bible, World Bible, Season One Episode Guide decision, and creator-approved Book Two/Season Two source authority are resolved. Remote merge/default-branch state also needs confirmation from the hosted repository before release lock.
 
 ---
 
