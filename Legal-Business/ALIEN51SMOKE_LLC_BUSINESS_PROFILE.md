@@ -1,6 +1,6 @@
 # ALIEN51SMOKE LLC
 ## Business Profile & Company Record
-### Owner: Donald Alfred Hargrove Jr.
+### Owner: [PRIVATE — VERIFIED OWNER RECORD]
 
 > **NOTICE** — This document is an internal business record and organizational worksheet. It is not a substitute for legal, tax, banking, or accounting advice.
 
@@ -15,7 +15,7 @@ The identity details explicitly supplied for this worksheet are recorded below a
 | Legal business name | Alien51Smoke LLC — **OWNER CONFIRMATION / official-record verification needed** |
 | Brand name | Alien 51 Smoke — **OWNER CONFIRMATION NEEDED** |
 | Entity type | Single-Member Limited Liability Company — **OWNER CONFIRMATION NEEDED** |
-| Owner/member | Donald Alfred Hargrove Jr. — owner-provided; official-record confirmation needed |
+| Owner/member | [PRIVATE — VERIFIED OWNER RECORD] — owner-provided; official-record confirmation needed |
 | Management structure | Member-managed, unless official documents state otherwise — **CONFIRM** |
 | State of formation | Michigan — owner-provided; official filing confirmation needed |
 | Formation date | **[NOT ENTERED — confirm from Articles/Michigan record]** |
@@ -34,7 +34,7 @@ The identity details explicitly supplied for this worksheet are recorded below a
 
 | Item | Recordkeeping entry |
 |---|---|
-| Sole owner/member | **STATUS:** Owner-provided: Donald Alfred Hargrove Jr. **DOCUMENT FOUND:** Not in repository. **CONFIRMATION NEEDED:** Articles/operating agreement. **NOTES:** ____ |
+| Sole owner/member | **STATUS:** Owner-provided: [PRIVATE — VERIFIED OWNER RECORD] **DOCUMENT FOUND:** Not in repository. **CONFIRMATION NEEDED:** Articles/operating agreement. **NOTES:** ____ |
 | Ownership percentage | **STATUS:** 100% only if confirmed. **DOCUMENT FOUND:** Not found. **CONFIRMATION NEEDED:** Owner/operating agreement. **NOTES:** ____ |
 | Initial/additional contributions; member loans | **STATUS:** Unrecorded. **DOCUMENT FOUND:** Not found. **CONFIRMATION NEEDED:** Private accounting records. **NOTES:** ____ |
 | Profit distribution / loss allocation / voting / signing authority | **STATUS:** Unrecorded. **DOCUMENT FOUND:** Not found. **CONFIRMATION NEEDED:** Operating agreement and professional review. **NOTES:** ____ |

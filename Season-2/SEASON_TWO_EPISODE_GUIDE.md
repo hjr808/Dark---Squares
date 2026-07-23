@@ -1,7 +1,8 @@
 # Dark Squares — Season Two Episode Guide
 
 **Status:** Production planning only. No scenes, dialogue, or screenplay pages are authorized by this document.
-**Continuity position:** Starts in the final seconds of Season One Episode 21, *“Bloody Sweet 16,”* and follows the next three years. Season Two has no previously canonized episode titles; titles below are **working titles**, not established canon.
+**Continuity position:** Starts in the final seconds of Season One Episode 21, *"Bloody Sweet 16,"* and follows the next three years. Season Two has no previously canonized episode titles; titles below are **working titles**, not established canon. All episode orders, loglines, character arcs, and narrative resolutions are source-constrained by `Series-Bible/SEASON_TWO_SOURCE_MAP.md`.
+
 
 ## Episodes 1–5 — Immediate Aftermath
 
@@ -314,3 +315,35 @@
 - **Key Locations:** Ella Mae’s house; Lucky’s studio; Pretty Ricky’s rehearsal space; venue exterior at dawn.
 - **Continuity Notes:** End within the local three-year period. Preserve open legal and Chucky-outcome questions; do not open later-series New York or Wizard material.
 - **Cliffhanger:** Li Keith steps to the microphone for the next rehearsal as Manny watches the house lights come on—an earned forward motion, not a resolved ending.
+
+---
+
+## Source-Constrained Pre-Writing Guide (Approval Authority Layer)
+
+**Primary planning source:** `Series-Bible/SEASON_TWO_SOURCE_MAP.md`
+
+**Rule:** This guide contains no invented Season Two episodes, titles, scenes, dialogue, ages, narrator passages, songs, Chat content, or story resolutions beyond those listed above.
+
+Before any Season Two episode can be authored or added to this guide:
+
+1. **Creator sign-off required:** Alfred HJR must approve the Season Two narrative direction and key story beats.
+2. **Source material lock:** All Season Two material must be cross-referenced to `Series-Bible/SEASON_TWO_SOURCE_MAP.md`.
+3. **Continuity freeze:** Season One finale outcomes (Chucky, Keith, Manny, Ella Mae) are locked until approved.
+4. **No retroactive invention:** No Season Two episode can claim a source file that does not exist or has been marked as placeholder-only.
+
+---
+
+## Confirmed Continuity Bridge from Season One
+
+This section is **not** a Season Two episode entry. It is the complete source-supported bridge that all Season Two material must honor.
+
+| Continuity item | Confirmed Season One state | Required Season Two treatment |
+|---|---|---|
+| Chucky | Unresponsive after Keith slams him onto concrete in rain at the front of Ella Mae's house. | **REQUIRES ALFRED HJR APPROVAL:** outcome, condition, and all aftermath. Do not label death, survival, permanent injury, or legal charge without approval. |
+| Keith | Says "I didn't mean..." and "I didn't mean to..." after the slam. | **REQUIRES ALFRED HJR APPROVAL:** music, school, legal, family, and emotional continuation. |
+| Manny | Cannot undo the event through protection, music, basketball, or advice. | **REQUIRES ALFRED HJR APPROVAL:** any next action, New York path, or response. |
+| Ella Mae | Her house and Manny's Sweet Sixteen are the setting of the finale. | **REQUIRES ALFRED HJR APPROVAL:** her discovery, response, or subsequent family storyline. |
+| Butch | Tries to stop the fight; his role in the aftermath is not established. | **REQUIRES ALFRED HJR APPROVAL:** legal, financial, emotional, or relational consequences. |
+| Sarah | Witnesses the late-party sequence and some of the aftermath. | **REQUIRES ALFRED HJR APPROVAL:** her account, trauma, or family/school response. |
+| Lucky | Studio is the party DJ location; his response to the finale is not shown. | **REQUIRES ALFRED HJR APPROVAL:** studio closure, reopening, or recontextualization. |
+| Nate | Witnesses and preserves the Check Check thread. | **REQUIRES ALFRED HJR APPROVAL:** his moral weight, public or private testimony, and future witness role. |
