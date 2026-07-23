@@ -1,6 +1,6 @@
 # DARK SQUARES — FRANCHISE CONTINUITY AUDIT
 
-**Audit status:** Completed production-continuity review.  
+**Audit status:** Completed production-continuity review; re-verified 2026-07-23 against current repository tree (corrected Continuity Log availability statement).  
 **Audit scope:** All 21 completed Season One screenplay adaptations and all available production/reference sources.  
 **Season Two status at time of audit:** No completed Season Two screenplays exist. The Season Two Episode Guide and Source Map identify zero complete and zero partial source-supported Season Two episodes; consequently, this audit does not treat any future-story assertion as canon.
 
@@ -10,7 +10,7 @@
 
 ### Authority applied
 
-Sources were applied in the requested order. The completed Season One screenplay set is the controlling production record. The Season Two screenplay tier has no entries. The Season One Production Bible, Season Two Episode Guide, Season Two Source Map, Series Timeline, and Master Canon were used only to test the screenplay record, not to add events. No substantive standalone Character Bible, World Bible, or Continuity Log exists in the repository. Book One was used as a lower-priority verification source; no Book Two manuscript or narrative source is present.
+Sources were applied in the requested order. The completed Season One screenplay set is the controlling production record. The Season Two screenplay tier has no entries. The Season One Production Bible, Season Two Episode Guide, Season Two Source Map, Series Timeline, and Master Canon were used only to test the screenplay record, not to add events. No substantive standalone Character Bible or World Bible exists in the repository. A Continuity Log is present at `Series-Bible/CONTINUITY_LOG.md` and contains dated planning decisions and timeline milestones; it was not used as a continuity-audit authority source because it records planning decisions rather than confirmed screenplay facts. Book One was used as a lower-priority verification source; no Book Two manuscript or narrative source is present.
 
 ### Result key
 
@@ -236,5 +236,5 @@ All items below are deliberate open continuity, not defects to solve by inferenc
 - [x] All 21 completed Season One screenplay files indexed and reviewed in episode order.
 - [x] Season Two screenplay directory checked; no completed Season Two screenplay exists.
 - [x] Season One Production Bible, Season Two Episode Guide, Season Two Source Map, Series Timeline, and Master Canon compared against the completed screenplay record in the stated authority order.
-- [x] Character/World Bible and Continuity Log availability checked; no substantive standalone source was found.
+- [x] Character/World Bible and Continuity Log availability checked; no standalone Character Bible or World Bible found; `Series-Bible/CONTINUITY_LOG.md` is present with planning decisions and timeline milestones.
 - [x] No screenplay, source manuscript, guide, source map, timeline, canon, or production-bible file was modified.
