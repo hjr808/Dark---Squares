@@ -1,13 +1,13 @@
-# Dark-Squares
+
 # Dark Squares
 
 Created by Alfred HJR
 
 ## Repository Structure
 
-- 📖 Book-1
-- 📖 Book-2
-- 📖 Book-3
+- 📖 season-1
+- 📖 season-2
+- 📖 season-3
 - 🎬 Screenplays
 - 📚 Series-Bible
 - 👥 Characters
@@ -16,10 +16,10 @@ Created by Alfred HJR
 
 ## Status
 
-- Book One: In Development
-- Book Two: Planned
+- series One: completed
+- series Two: completed
 - Book Three: Planned
-- Pilot Screenplay: In Development
-- Series Bible: In Development
+- Pilot Screenplay: completed
+- Series Bible: completed
 
 © Alfred HJR. All Rights Reserved.
