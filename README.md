@@ -8,7 +8,7 @@ Created by Alfred HJR
 - 📖 season-1
 - 📖 season-2
 - 📖 season-3
-- 🎬 Screenplays
+- 🎬 Episode-Pilots
 - 📚 Series-Bible
 - 👥 Characters
 - 🗓 Timeline
